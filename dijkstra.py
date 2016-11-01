@@ -1,4 +1,3 @@
-import webbrowser
 class Node:
     def __init__(self, name=None, pre=None, neighbor={}, dis=None):
         self.name = name
